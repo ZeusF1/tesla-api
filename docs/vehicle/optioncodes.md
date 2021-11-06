@@ -449,12 +449,12 @@ return a generic set of codes related to a Model 3.
 | SR07   | Second Row Seats with Comfort Improvements               |                                                           |
 | ST00   | Non-leather Steering Wheel                               |                                                           |
 | ST01   | Non-heated Leather Steering Wheel                        |                                                           |
-| ST30   | Base Steering Wheel                                      | Model 3 Standard+                                         |
 | ST02   | Heated Leather Steering Wheel                            |                                                           |
 | ST03   | Regular Steering Wheel                                   | Model X/S Plaid (removed)                                 |
 | ST0Y   | Yoke Steering Wheel.                                     | Model X/S Plaid                                           |
+| ST30   | Base Steering Wheel                                      | Model 3 Standard+                                         |
 | ST31   | Steering Wheel                                           | Premium Steering Wheel                                    |
-| ST33   | Steering wheel - heated on LR/P (Model 3)                | Premium Steering Wheel                                    |
+| ST33   | Steering wheel - Heated on LR/P (Model 3)                | Premium Steering Wheel                                    |
 | STCP   | Steering Wheel                                           | Steering Column (Power)                                   |
 | ST0Y   | Yoke Steering Wheel                                      |                                                           |
 | STY5S  | Five Seat Interior                                       |                                                           |
@@ -499,7 +499,7 @@ return a generic set of codes related to a Model 3.
 | UTZW   | Light Headliner                                          |                                                           |
 | USSB   | Safety                                                   | Safety US Black                                           |
 | USSW   | US Safety Kit White                                      |                                                           |
-| VC00   |                                                          | Model Y (China?)                                          |
+| VC00   |                                                          | Model 3/Y (China?)                                        |
 | W32P   | 20" Performance Wheels                                   | Model 3                                                   |
 | W32D   | 20" Gray Performance Wheels                              | Model 3                                                   |
 | W33D   | 20" Black Performance Wheels 2021                        | Model 3                                                   |
