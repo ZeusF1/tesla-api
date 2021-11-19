@@ -348,6 +348,7 @@ return a generic set of codes related to a Model 3.
 | PMSS   | San Simeon Silver Metallic Color                         |                                                           |
 | PMTG   | Dolphin Grey Metallic Color                              |                                                           |
 | PPMR   | Red Multi-Coat Color                                     |                                                           |
+| PP00   | No Pedestrian Protection?                                | Model 3 2021 China                                        |
 | PP01   | Pedestrian Protection Ped Pro R127 Compliant             | Model S 2020+ Eu                                          |
 | PPSB   | Deep Blue Metallic Color                                 |                                                           |
 | PPSR   | Signature Red Color                                      |                                                           |
@@ -455,11 +456,12 @@ return a generic set of codes related to a Model 3.
 | ST03   | Regular Steering Wheel                                   | Model X/S Plaid (removed)                                 |
 | ST0Y   | Yoke Steering Wheel.                                     | Model X/S Plaid                                           |
 | ST31   | Steering Wheel                                           | Premium Steering Wheel                                    |
-| ST33   | Steering wheel - heated on LR/P (Model 3)                | Premium Steering Wheel                                    |
+| ST33   | Steering wheel - heated on LR/P (Model 3)                | Premium Steering Wheel from 03.2021                       |
 | STCP   | Steering Wheel                                           | Steering Column (Power)                                   |
 | ST0Y   | Yoke Steering Wheel                                      |                                                           |
 | STY5S  | Five Seat Interior                                       |                                                           |
 | STY7S  | Seven Seat Interior                                      |                                                           |
+| SWF0   |                                                          | Model 3 China made                                        |
 | SU00   | Standard Suspension                                      |                                                           |
 | SU01   | Smart Air Suspension                                     |                                                           |
 | SU03   | Suspension Update                                        | Model S/X 2020-2021                                       |
@@ -506,6 +508,7 @@ return a generic set of codes related to a Model 3.
 | W33D   | 20" Black Performance Wheels 2021                        | Model 3                                                   |
 | W38B   | 18" Aero Wheels                                          | For the Model 3 and Model Y                               |
 | W39B   | 19" Sport Wheels                                         |                                                           |
+| W40B   | 18" Aero Wheels                                          | Model 3                                                   |
 | WR00   | No Wrap                                                  |                                                           |
 | WR01   | Wrap                                                     |                                                           |
 | WR02   | Wrap 2 (Tilburg bound)                                   |                                                           |
